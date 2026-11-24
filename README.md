@@ -156,13 +156,8 @@ Player statistics from [FBref](https://fbref.com/), market values and contract d
 
 Parts of the model creation, training, and testing code are modified versions of the MLP tutorial code provided in the course.
 
-### **Data Sources and Usage**
+### **Data Usage**
 
-The raw statistics and market values belong to their original sources:
-
-- Player statistics: **[FBref](https://fbref.com/)**
-- Market values and contract expiration dates: **[Transfermarkt](https://www.transfermarkt.com/)**
-
-This repository only includes the final merged dataset (`/merged_player_data.csv`), which I built by cleaning and combining data from these sources. The raw files are not included.
+This repository only includes the final merged dataset (`/merged_player_data.csv`), which I built by cleaning and combining data from FBref and Transfermarkt. The raw files are not included.
 
 **This dataset is shared for educational and non-commercial purposes only.** If you want to use the data for anything beyond that, please check the terms of use of FBref and Transfermarkt.
