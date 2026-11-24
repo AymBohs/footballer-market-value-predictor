@@ -5,7 +5,9 @@
 Predicting the market value of football players based on their stats over three seasons, using a Multilayer Perceptron (MLP) built with PyTorch and trained on a dataset I made myself.
 
 **Author:** Ayman Bohsali
+
 **Course Professor:** Dr. Mirco Ravanelli
+
 **Project Advisor:** Gianfranco Dumoulin
 
 ---
